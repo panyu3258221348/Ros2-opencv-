@@ -19,7 +19,7 @@
 1. 确保已安装 ROS 2 和所有依赖项
 2. 进入工作空间目录：
    ```
-   cd c:\Users\hello\Downloads\ros2_opencv-master\ros2_ws
+   cd ros2_opencv-master\ros2_ws
    ```
 3. 构建项目：
    ```
